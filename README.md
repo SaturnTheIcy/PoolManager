@@ -1,5 +1,5 @@
- A Pool manager for Unity3D
- ==========================
+ #A Pool manager for Unity3D
+
  Author: Karakonstantioglou Spiros, "SaturnTheIcy" (kronos.ice.dev@gmail.com)
  
  This is a simple GameObjects pool manager for [Unity3D](http://www.unity3d.com/),
