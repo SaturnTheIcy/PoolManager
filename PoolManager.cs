@@ -38,13 +38,13 @@ Usage :
 	PoolManager.DisposePool(prefab);
 
 */
-	#region TODO
-	#endregion TODO
+#region TODO
+#endregion TODO
 
-	#region IDEAS
-	// * Check if move the lock the pool to the wrapper is better solution
-	// * Add Spawn Despawn with timer? and able to stop it.
-	#endregion IDEAS
+#region IDEAS
+// * Check if move the lock the pool to the wrapper is better solution
+// * Add Spawn Despawn with timer? and able to stop it.
+#endregion IDEAS
 #endregion Description
 
 using System;
