@@ -1,4 +1,4 @@
- #A Pool manager for Unity3D
+ # A Pool manager for Unity3D
 
  Author: Karakonstantioglou Spiros, "SaturnTheIcy" (kronos.ice.dev@gmail.com)
  
